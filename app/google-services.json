@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367982860413",
+    "project_id": "desafio-da-bondade",
+    "storage_bucket": "desafio-da-bondade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367982860413:android:afe9614eb3922310f3b914",
+        "android_client_info": {
+          "package_name": "com.example.desafio_bondade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkuufVMbkWEzQ45g0hB_Vy6yqzwuqgSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

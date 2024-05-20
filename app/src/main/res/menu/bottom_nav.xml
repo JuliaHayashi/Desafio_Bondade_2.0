@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Desafio Diário"
+        android:id="@+id/desafio"
+        android:icon="@drawable/baseline_local_florist_24"/>
+
+    <item
+        android:title="Diário"
+        android:id="@+id/diario"
+        android:icon="@drawable/baseline_class_24"/>
+
+    <item
+        android:title="Preferências"
+        android:id="@+id/preferencias"
+        android:icon="@drawable/baseline_interests_24"/>
+
+    <item
+        android:title="Configuracoes"
+        android:id="@+id/configuracoes"
+        android:icon="@drawable/baseline_settings_24" />
+</menu>
