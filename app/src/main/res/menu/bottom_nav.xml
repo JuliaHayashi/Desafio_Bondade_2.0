@@ -3,7 +3,7 @@
     <item
         android:title="Desafio Diário"
         android:id="@+id/desafio"
-        android:icon="@drawable/baseline_local_florist_24"/>
+        android:icon="@drawable/baseline_favorite_border_24"/>
 
     <item
         android:title="Diário"
@@ -13,7 +13,7 @@
     <item
         android:title="Preferências"
         android:id="@+id/preferencias"
-        android:icon="@drawable/baseline_interests_24"/>
+        android:icon="@drawable/baseline_local_florist_24"/>
 
     <item
         android:title="Configuracoes"

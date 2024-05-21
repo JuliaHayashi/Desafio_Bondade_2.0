@@ -5,11 +5,25 @@
     android:layout_height="match_parent"
     tools:context=".Desafios">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:id="@+id/textDesafios"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="680dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:justificationMode="inter_word"
+        android:text="Desafios"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desafios Diários ❤️"
+        android:textSize="22dp" />
 
 </FrameLayout>

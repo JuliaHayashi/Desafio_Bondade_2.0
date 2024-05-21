@@ -19,4 +19,5 @@ class Preferencias : Fragment() {
         return inflater.inflate(R.layout.fragment_preferencias, container, false)
     }
 
+
 }
